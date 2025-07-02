@@ -50,7 +50,7 @@ const Cards = () => {
 
     return (
         <>
-            <div className='min-h-screen flex  items-center justify-1 bg-gray-200 static'>
+            <div className='min-h-screen flex  items-center justify-start bg-gray-200 static'>
                 <div className='flex flex-col '>
                     <Link to="/feedback">
                         <button className='bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-300 hover:shadow-lg cursor-alias'>
